@@ -1,9 +1,8 @@
 function ConvertHandler() {
   
   this.getNum = function(input) {
-    let result;
     
-    return result;
+    return parseInt(input);
   };
   
   this.getUnit = function(input) {
